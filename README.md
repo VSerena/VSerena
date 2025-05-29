@@ -83,8 +83,7 @@ Questi libri fanno parte del mio percorso di autoformazione per integrare lo stu
 
 ## 📫 Contattami
 
-[GitHub](https://github.com/VSerena) 
-Email: `serenavannacci000@gmail.com`
+- [GitHub](https://github.com/VSerena) 
 
 ---
 

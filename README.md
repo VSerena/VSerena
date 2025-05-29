@@ -1,7 +1,5 @@
 # 👋 Ciao! Sono Serena
 
----
-
 ## ✨ Su di me – in breve
 
 

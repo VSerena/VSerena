@@ -66,7 +66,6 @@ Questi libri fanno parte del mio percorso di autoformazione per integrare lo stu
 | *Matematica Discreta* – Rosen, Carlino                                         | Discreta / Logica                         |
 | *Scienza giuridica e tecnologia informatiche* – Parisi, Pietropaoli            | Informatica e diritto                     |
 | *Clean Code* – Robert C. Martin                                                | Software Engineering                      |
-| *Introduction to the Theory of Computation* – Michael Sipser                   | Informatica Teorica                       |
 | *Architecture Patterns with Python* – B. Gregory, H. Percival                  | Architettura software                     |
 | *Doing Data Science* – Cathy O’Neil, Rachel Schutt                             | Data Science                              |
 | *Essential Math for AI* – Balazs Holczer                                       | Matematica per l’IA                       |

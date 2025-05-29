@@ -1,6 +1,9 @@
 # 👋 Ciao! Sono Serena
 
+---
+
 ## ✨ Su di me – in breve
+
 
 - 🎓 Studente di Informatica presso l’Università di Firenze  
 - 🔭 Attualmente sto lavorando alla tesi di laurea triennale su deep learning e computer vision (convoluzioni, segmentazione di immagini, PyTorch/OpenCV)

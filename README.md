@@ -81,10 +81,4 @@ Questi libri fanno parte del mio percorso di autoformazione per integrare lo stu
 
 ---
 
-## 📫 Contattami
-
-- [GitHub](https://github.com/VSerena) 
-
----
-
 > 🧠 *“Stay hungry, stay foolish.” – Steve Jobs*

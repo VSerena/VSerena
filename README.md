@@ -49,10 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
-
-  <!-- Placeholder per Assembly e RISC-V -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/RISC-V_logo.svg" width="40" alt="RISC-V" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Assembly_Logo.png" width="40" alt="Assembly" />
 </p>
 
 ---

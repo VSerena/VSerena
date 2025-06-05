@@ -5,7 +5,7 @@
 - 🎓 Studente di Informatica presso l’Università di Firenze  
 - 🔭 Attualmente sto lavorando alla tesi di laurea triennale su deep learning, reti neurali convoluzionali e computer vision
 - 📚 Sto approfondendo in autonomia argomenti come Machine Learning, PLC e Python per l’intelligenza artificiale
-- ⚡ Curiosità su di me: Nel tempo libero mi piace perdermi tra le pagine di un buon libro, camminare tra boschi e sentieri di montagna, viaggiare e – ovviamente – assaggiare tutto ciò che la cucina locale ha da offrire (per scopi culturali, si intende 🍝). Ho una certa passione per i lavori manuali: adoro costruire, smontare e rimettere in funzione qualsiasi cosa decida improvvisamente di non collaborare — che si tratti di un elettrodomestico ribelle o di un muro che ha bisogno di una rinfrescata. Mi diverto a rendere più bello e funzionale ciò che mi circonda, con un occhio attento al verde e una certa affinità con le piante (loro dicono che non sono male come giardiniere 🌱). In generale, preferisco fare le cose con le mie mani: il risultato è più gratificante, e il percorso – anche se faticoso – ne vale sempre la pena.
+- ⚡ Curiosità su di me: Nel tempo libero mi piace perdermi tra le pagine di un buon libro, camminare tra boschi e sentieri di montagna, viaggiare e – ovviamente – assaggiare tutto ciò che la cucina locale ha da offrire (per scopi culturali, si intende 🍝). Ho una certa passione per i lavori manuali: adoro costruire, smontare e rimettere in funzione qualsiasi cosa decida improvvisamente di non collaborare.
 
 ---
 
@@ -77,7 +77,9 @@ Questi libri fanno parte del mio percorso di autoformazione per integrare lo stu
 | *Software Engineering for Data Scientists* – Catherine F.                      | Ingegneria del software per DS            |
 | *Advanced Industrial Automation & PLC Programming* – Krishna Kumar             | PLC & Automazione                         |
 | *PLC for Beginners* – Josh Aaronson                                            | Sistemi industriali                       |
-
+| *Docker Sviluppare e rilasciare software tramite container* - Serena Sensini 
+| Sviluppo software 
+|
 ---
 
 > 🧠 *“Stay hungry, stay foolish.” – Steve Jobs*

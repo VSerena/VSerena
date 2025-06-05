@@ -78,7 +78,6 @@ Questi libri fanno parte del mio percorso di autoformazione per integrare lo stu
 | *Advanced Industrial Automation & PLC Programming* – Krishna Kumar             | PLC & Automazione                         |
 | *PLC for Beginners* – Josh Aaronson                                            | Sistemi industriali                       |
 | *Docker Sviluppare e rilasciare software tramite container* - Serena Sensini 
-| Sviluppo software 
 |
 ---
 

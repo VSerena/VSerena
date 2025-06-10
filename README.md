@@ -1,32 +1,32 @@
-# 👋 Ciao! Sono Serena
+# 👋 Hi there! I'm Serena
 
-## ✨ Su di me – in breve
+## ✨ About Me – In a Nutshell
 
-- 🎓 Studente di Informatica presso l’Università di Firenze  
-- 🔭 Attualmente sto lavorando alla tesi di laurea triennale su deep learning, reti neurali convoluzionali e computer vision
-- 📚 Sto approfondendo in autonomia argomenti come Machine Learning, PLC e Python per l’intelligenza artificiale
-- ⚡ Curiosità su di me: Nel tempo libero mi piace perdermi tra le pagine di un buon libro, camminare tra boschi e sentieri di montagna, viaggiare e – ovviamente – assaggiare tutto ciò che la cucina locale ha da offrire (per scopi culturali, si intende 🍝). Ho una certa passione per i lavori manuali: adoro costruire, smontare e rimettere in funzione qualsiasi cosa decida improvvisamente di non collaborare.
-
----
-
-## 📘 Alcuni degli Esami Superati
-
-| Corso                                       | CFU | Voto |
-|---------------------------------------------|-----|------|
-| Programmazione                              | 12  | 30   |
-| Algoritmi e Strutture Dati                  | 12  | 30   |
-| Basi di Dati e Sistemi Informativi          | 9   | 29   |
-| Architetture Degli Elaboratori              | 12  | 30L  |
-| Compilatori e Interpreti                    | 9   | 28   |
-| Reti di Calcolatori                         | 6   | 30   | 
-| Analysis of Algorithms and Data Structures  | 6   | 28   |
+- 🎓 Computer Science student at the University of Florence  
+- 🔭 Currently working on my Bachelor's thesis, focusing on deep learning, convolutional neural networks, and computer vision  
+- 📚 I'm also self-studying topics such as Machine Learning, PLC programming, and Python for Artificial Intelligence  
+- ⚡ Fun fact: In my free time, I love getting lost in the pages of a good book, hiking through forests and mountain trails, traveling, and – of course – tasting everything local cuisine has to offer (purely for cultural reasons, of course 🍝). I also have a passion for hands-on projects: I enjoy building, dismantling, and bringing back to life anything that suddenly decides to stop working.
 
 ---
 
-## 💻 Tecnologie, Linguaggi e Tool
+## 📘 Some Courses I've Completed
+
+| Course Name                                 | ECTS | Grade |
+|---------------------------------------------|------|-------|
+| Programming                                 | 12   | 30    |
+| Algorithms and Data Structures              | 12   | 30    |
+| Databases and Information Systems           | 9    | 29    |
+| Computer Architecture                       | 12   | 30L   |
+| Compilers and Interpreters                  | 9    | 28    |
+| Computer Networks                           | 6    | 30    |
+| Analysis of Algorithms and Data Structures  | 6    | 28    |
+
+---
+
+## 💻 Technologies, Languages & Tools
 
 <p align="left">
-  <!-- Linguaggi principali -->
+  <!-- Main languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
@@ -51,34 +51,34 @@
 
 ---
 
-## 📚 Libri IT letti / in corso
+## 📚 IT Books I've Read / Currently Reading
 
-Questi libri fanno parte del mio percorso di autoformazione per integrare lo studio accademico con competenze concrete su AI, ML, computer vision, automazione e software design.
+These books are part of my self-learning journey, helping me complement my academic studies with practical knowledge in AI, ML, computer vision, automation, and software design.
 
-| Titolo                                                                         | Argomento / Area                          |
-| ------------------------------------------------------------------------------ | ----------------------------------------- |
-| *HTML & CSS* – Jon Duckett                                                     | Web Development                           |
-| *Programmazione di base e avanzata con Java* – Walter Savitch                  | Programmazione OOP                        |
-| *Statistica per le decisioni* – Piccolo                                        | Statistica                                |
-| *Sistemi Operativi* – Silberschatz, Galvin, Gagne                              | Sistemi                                   |
-| *Reti Logiche* – Bolchini et al.                                               | Architettura                              |
-| *Analisi Matematica I* – Bramanti                                              | Matematica                                |
-| *Matematica Discreta* – Rosen, Carlino                                         | Discreta / Logica                         |
-| *Scienza giuridica e tecnologia informatiche* – Parisi, Pietropaoli            | Informatica e diritto                     |
-| *Clean Code* – Robert C. Martin                                                | Software Engineering                      |
-| *Architecture Patterns with Python* – B. Gregory, H. Percival                  | Architettura software                     |
-| *Doing Data Science* – Cathy O’Neil, Rachel Schutt                             | Data Science                              |
-| *Essential Math for AI* – Balazs Holczer                                       | Matematica per l’IA                       |
-| *Machine Learning and Data Science Blueprints for Finance* – Hariom Tatsat     | ML + Finanza                              |
-| *Practical Machine Learning for Computer Vision* – Valliappa Lakshmanan et al. | Visione artificiale                       |
-| *Programming PyTorch for Deep Learning* – Eli Stevens et al.                   | Deep Learning (PyTorch)                   |
-| *AI and Machine Learning for Coders* – Laurence Moroney                        | Intelligenza artificiale per sviluppatori |
-| *Think Stats* – Allen B. Downey                                                | Statistica + Python                       |
-| *Software Engineering for Data Scientists* – Catherine F.                      | Ingegneria del software per DS            |
-| *Advanced Industrial Automation & PLC Programming* – Krishna Kumar             | PLC & Automazione                         |
-| *PLC for Beginners* – Josh Aaronson                                            | Sistemi industriali                       |
-| *Docker Sviluppare e rilasciare software tramite container* - Serena Sensini 
-|
+| Title                                                                            | Topic / Area                             |
+|----------------------------------------------------------------------------------|-------------------------------------------|
+| *HTML & CSS* – Jon Duckett                                                       | Web Development                           |
+| *Absolute Java / Advanced Programming* – Walter Savitch                         | OOP Programming                           |
+| *Statistica per le decisioni* – Piccolo                                          | Statistics                                |
+| *Operating System Concepts* – Silberschatz, Galvin, Gagne                        | Operating Systems                         |
+| *Reti Logiche* – Bolchini et al.                                                 | Computer Architecture                     |
+| *Calculus I* – Bramanti                                                          | Mathematics                               |
+| *Discrete Mathematics and Its Applications* – Rosen, Carlino                     | Discrete Math / Logic                     |
+| *Legal Science & IT* – Parisi, Pietropaoli                                       | Legal Informatics                         |
+| *Clean Code* – Robert C. Martin                                                  | Software Engineering                      |
+| *Architecture Patterns with Python* – B. Gregory, H. Percival                    | Software Architecture                     |
+| *Doing Data Science* – Cathy O’Neil, Rachel Schutt                               | Data Science                              |
+| *Essential Math for AI* – Balazs Holczer                                         | Math for AI                               |
+| *ML & DS Blueprints for Finance* – Hariom Tatsat                                 | ML + Finance                              |
+| *Practical ML for Computer Vision* – Valliappa Lakshmanan et al.                | Computer Vision                           |
+| *Programming PyTorch for Deep Learning* – Eli Stevens et al.                    | Deep Learning (PyTorch)                   |
+| *AI and Machine Learning for Coders* – Laurence Moroney                          | AI for Developers                         |
+| *Think Stats* – Allen B. Downey                                                  | Stats + Python                            |
+| *Software Engineering for Data Scientists* – Catherine F.                        | Software Engineering for DS               |
+| *Advanced Industrial Automation & PLC Programming* – Krishna Kumar               | PLC & Industrial Automation               |
+| *PLC for Beginners* – Josh Aaronson                                              | Industrial Systems                        |
+| *Docker: Develop and Deploy with Containers* – Serena Sensini                    | Containerization                          |
+
 ---
 
 > 🧠 *“Stay hungry, stay foolish.” – Steve Jobs*

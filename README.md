@@ -2,10 +2,64 @@
 
 ## ✨ About Me – In a Nutshell
 
+- 💻 Full Stack Developer at an AI software company
+- ⚙️ Working on a production **management platform** using **Django**, **Django REST Framework**, and **React**
+- 🤖 Integrating **AI-related services and MCP-based components**
 - 🎓 Computer Science student at the University of Florence  
 - 🔭 Currently working on my Bachelor's thesis, focusing on deep learning, convolutional neural networks, and computer vision  
 - 📚 I'm also self-studying topics such as Machine Learning, PLC programming, and Python for Artificial Intelligence  
 - ⚡ Fun fact: In my free time, I love getting lost in the pages of a good book, hiking through forests and mountain trails, traveling, and – of course – tasting everything local cuisine has to offer (purely for cultural reasons, of course 🍝). I also have a passion for hands-on projects: I enjoy building, dismantling, and bringing back to life anything that suddenly decides to stop working.
+
+---
+
+## 💻 Technologies, Languages & Tools
+
+<p align="left">
+
+  <!-- Languages -->
+  <b>Languages</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
+  <br><br>
+
+  <!-- Backend -->
+  <b>Backend</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <br><br>
+
+  <!-- Frontend -->
+  <b>Frontend</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <br><br>
+
+  <!-- AI / ML -->
+  <b>AI / Machine Learning</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
+  <br><br>
+
+  <!-- DevOps / Infrastructure -->
+  <b>DevOps & Infrastructure</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <br><br>
+
+  <!-- Tools -->
+  <b>Tools</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" />
+
+</p>
 
 ---
 
@@ -22,35 +76,6 @@
 | Analysis of Algorithms and Data Structures  | 6    | 28    |
 
 ---
-
-## 💻 Technologies, Languages & Tools
-
-<p align="left">
-  <!-- Main languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-
-  <!-- Web & DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-
-  <!-- IDE & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-
-  <!-- ML/AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
-</p>
-
----
-
 ## 📚 IT Books I've Read / Currently Reading
 
 These books are part of my self-learning journey, helping me complement my academic studies with practical knowledge in AI, ML, computer vision, automation, and software design.

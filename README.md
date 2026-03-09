@@ -2,11 +2,11 @@
 
 ## ✨ About Me – In a Nutshell
 
-- 💻 Full Stack Developer at an AI software company
+- 💻 *Full Stack Developer* at an AI software company
 - ⚙️ Working on a production **management platform** using **Django**, **Django REST Framework**, and **React**
-- 🤖 Integrating **AI-related services and MCP-based components**
-- 🎓 Computer Science student at the University of Florence  
-- 🔭 Currently working on my Bachelor's thesis, focusing on deep learning, convolutional neural networks, and computer vision  
+- 🤖 Integrating **AI-related services** using the **Model Context Protocol (MCP)**
+- 🎓 *BSc in Computer Science* – University of Florence
+- 🧠 Bachelor's thesis on deep learning, convolutional neural networks (CNNs), and computer vision
 - 📚 I'm also self-studying topics such as Machine Learning, PLC programming, and Python for Artificial Intelligence  
 - ⚡ Fun fact: In my free time, I love getting lost in the pages of a good book, hiking through forests and mountain trails, traveling, and – of course – tasting everything local cuisine has to offer (purely for cultural reasons, of course 🍝). I also have a passion for hands-on projects: I enjoy building, dismantling, and bringing back to life anything that suddenly decides to stop working.
 
